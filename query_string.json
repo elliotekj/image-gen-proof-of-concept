@@ -1,0 +1,17 @@
+// convert with: https://www.convertonline.io/convert/json-to-query-string
+
+{
+  "q": [
+    "It's awesome",
+    "Pretty fun",
+    "Great stuff",
+    "Average at best"
+  ],
+
+  "a": [
+    "My mum",
+    "Bob",
+    "Alice",
+    "Theo"
+  ]
+}
